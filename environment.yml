@@ -6,5 +6,10 @@ dependencies:
     - setuptools
     - matplotlib
     - jupyterlab
+    - numpy
+    - scikitlearn
+    - pandas
+    - nbconvert
+    - seaborn
     - pip:
       - jupyterlab_latex
